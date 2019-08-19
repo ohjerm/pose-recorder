@@ -1,3 +1,7 @@
+## Please note: This project has been moved to the Alexandra Institute's Computer Vision Github due to its conception as a hackathon project. 
+
+Our lab's github is [here](https://github.com/aivclab/pose-recorder). This repo will not be updated further.
+
 # pose-recorder
 Application part of 3D pose-recording and replay using Unity ARFoundation
 Be aware that without the pose detection ZMQ server this project is useless.
